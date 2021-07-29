@@ -17,7 +17,7 @@
   <img align="center" alt="Leles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="leles-abduzido" height="200" width="200" src="https://media.giphy.com/media/26BoCVdjSJOWT0Fpu/giphy.gif">
+  <img align="right" alt="leles-abduzido" height="148" width="128" src="https://media.giphy.com/media/26BoCVdjSJOWT0Fpu/giphy.gif">
 </div>
   
   ##
