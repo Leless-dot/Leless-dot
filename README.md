@@ -4,10 +4,9 @@
 - 🌱 Estou aprendendo JavaScript
 - 🤔 Gostaria de ajuda em desenvolvimento web
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/Leless-dot">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leless-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leless-dot&layout=compact&langs_count=7&theme=dracula"/>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=Leless-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/></div><div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leless-dot&layout=compact&langs_count=7&theme=dracula"/></div>
 </div>
   
  <div style="display: inline_block"><br>
