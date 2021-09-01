@@ -1,4 +1,4 @@
-### Olá !! Eu sou o Leles
+### Olá !! Eu sou o Leles 🤙🏾
 
 - 🔭 Ainda não trabalho na área
 - 🌱 Estou aprendendo JavaScript
@@ -6,8 +6,10 @@
 
 <div>
   <a href="https://github.com/Leless-dot">
-<img src="https://github-readme-stats.vercel.app/api?username=Leless-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leless-dot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leless-dot&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Leles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
