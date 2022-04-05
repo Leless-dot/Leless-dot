@@ -1,8 +1,8 @@
 ### Olá !! Eu sou o Leles 🤙🏾
 
-- 🔭 Ainda não trabalho na área
-- 🌱 Estou aprendendo JavaScript
-- 🤔 Gostaria de ajuda em desenvolvimento web
+- 🔭 
+- 🌱 
+- 🤔 
 
 <br>
   <a href="https://github.com/Leless-dot">
